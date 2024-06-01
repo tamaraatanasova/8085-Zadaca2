@@ -9,8 +9,7 @@ The timer counts a train of short pulses with T = 1ms.
 
 ![Screenshot (1)]()
 
-Exercise of Low Level Programming with 8085 Assembly Lecture, implemented with Emu8086.
-In general, Emu8086 is easier to use, write code and test program. 
+Exercise of Low Level Programming with 8085 Assembly Lecture
 
 
 [Tamara Atanasova ](https://github.com/tamaraatanasova)
